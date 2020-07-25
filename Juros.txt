@@ -1,0 +1,19 @@
+Juros é uma taxa cobrada pelo emprestimo de um capital (dinheiro) por um período de tempo
+
+Basicamente é considerado as seguintes informações para o calculo
+- Capital(C): valor principal emprestado ou aplicado
+- Juro (i): 
+- Montante (M):
+- Prazo (t):
+
+Os juros podem ser classificados como simples ou compostos
+- Juros simples: xxxxx
+
+- Juros compostos: xxxxx
+
+Calculando juros simples
+- Formula: M=C(1+j*t)
+
+Calculando juros compostos
+- Formula: M=C(1+j)^t
+
